@@ -28,6 +28,6 @@ deploy:
   env: "Helloworld-env"
   bucket_name: "elasticbeanstalk-us-east-2-839274515579"
   on:
-    branch: master
+    branch: main
   access_key_id: $AWS_ACCESS_KEY
   secret_access_key: $AWS_SECRET_KEY
