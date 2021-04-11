@@ -40,7 +40,7 @@ def calculate_circle():
 
 def calculate_square():
     num=getinput()
-    return (num, -num*4)
+    return (num, num*4)
 
 def getinput():
     return(5)
