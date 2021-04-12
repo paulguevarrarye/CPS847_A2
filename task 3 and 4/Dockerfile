@@ -1,4 +1,3 @@
-
 FROM python:3.6.1
 # define the present working directory
 WORKDIR /docker-flask-test
